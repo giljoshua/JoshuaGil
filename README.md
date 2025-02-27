@@ -1,1 +1,1 @@
-# courses,json
+# courses.json
